@@ -85,4 +85,6 @@
       el.classList.add("is-visible");
     });
   }
+
 })();
+
